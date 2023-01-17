@@ -1,2 +1,2 @@
 # myFirstProject
-out project
+our project
